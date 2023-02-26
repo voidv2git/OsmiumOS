@@ -1,8 +1,12 @@
-# Foobar
+# OsmiumOS
+
+![The boot screen](Screenshot%201.png)
 
 A Linux-like operating system made using cosmos, a framework that compiles C# code to x86 code.
 
 ## Installation
+
+![The help menu](Screenshot%202.png)
 
 Download git and run the following command:
 
@@ -13,6 +17,8 @@ git clone https://github.com/4xvoid/OsmiumOS
 And thats all! now you can work on the project all you want or even compile it and boot it from a USB.
 
 ## Using OsmiumLang
+
+![The help menu](Screenshot%203.png)
 
 ### Hello World!
 
